@@ -1,4 +1,4 @@
-# Network-Analysis---Influencers-on-Social-Media
+# Network-Analysis-Influencers-on-Social-Media
 
 In this project, I have performed network analysis on Social Media data, (scraped from Twitter) to develop more effective promotional strategies for a given product by reaching out to relevant influencers and also evaluate the financial impact of this analysis.
 
